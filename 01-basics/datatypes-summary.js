@@ -37,3 +37,27 @@ const myfunction = function(){
 }      //datatype: function
 
 console.log(typeof myfunction);
+
+
+
+//+++++++++++++++++++++++++memories+++++++++++++++++++++++++
+
+//stack(primitive);heap(non-primitive);
+
+let myyoutubename = "kashishdot.com" 
+let anothername = myyoutubename
+ anothername = "chaiaurcode"
+ console.log(myyoutubename);
+ console.log(anothername);
+
+ let userOne = {
+    email:"user@google.com",
+    upi:"user@ybl"
+ }
+
+
+let userTwo = userone
+
+ userTwo.Email = "kashish@google.com"
+ console.log(userOne.Email);
+ console.log(userTwo.Email);
