@@ -75,3 +75,4 @@ addtwo(18)     //aceess
 
 // window or browser me jb hm console krte h toh vha ka global scope diff h 
 // and jb hm code environment me node ke through example ko run krte h toh global scope alg h.. 
+
